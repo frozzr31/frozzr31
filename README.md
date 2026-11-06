@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💫 About Me:
+# 💫 About Me<br><br># ⚡ Hi, I'm YuuNaka!<br><br>> **Informatics Engineering Student**  <br>> *Exploring modern web interfaces, data processing, and AI-assisted engineering.*<br><br>---<br><br>### 🌐 Quick Links<br>- 🚀 **Live Portfolio**: [frozzr31.github.io/try1_yuunaka](https://frozzr31.github.io/try1_yuunaka/)<br>- 📦 **Featured Project**: [Modern AI & Futuristic Portfolio](https://github.com/frozzr31/try1_yuunaka)<br>- 📬 **Contact**: [frozzr31@gmail.com](mailto:frozzr31@gmail.com)<br><br>---<br><br>### 💡 About Me<br>I am an Informatics Engineering student who loves experimenting with modern technology, exploring data science, and designing interactive web interfaces powered by a *vibe coding* workflow.<br><br>---<br><br>### 💻 Tech Stack & Interests<br><br>```text<br> ┌── Data Science & Analytics<br> ├── Python • Pandas • NumPy • SQL • Jupyter<br> │<br> ├── Web Development<br> ├── HTML5 • CSS3 • JavaScript • PHP • MySQL<br> │<br> └── Dev Tools & Vibe<br>     Git • GitHub • UI/UX Design • AI-Assisted Workflows
 
-<!--
-**frozzr31/frozzr31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryushenaka) 
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=frozzr31&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=frozzr31&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=frozzr31&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=frozzr31&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=frozzr31&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
