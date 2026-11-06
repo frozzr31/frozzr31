@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋 I'm frozzr31</h1>
 
-<!--
-**frozzr31/frozzr31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineer</b> • Building scalable systems and developer tools.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm working on
+- Open-source tools and libraries
+- Scalable backend services
+- Developer productivity improvements
+
+### 🌱 What I'm learning
+- Distributed systems design
+- Cloud-native architectures
+- Performance optimization
+
+### 👯 Looking to collaborate on
+- Open-source projects
+- Developer tools and infrastructure
+- System design discussions
+
+### 💬 Ask me about
+- Software engineering best practices
+- System architecture
+- Code review and refactoring
+
+### 📫 How to reach me
+- GitHub: [@frozzr31](https://github.com/frozzr31)
+
+### ⚡ Fun fact
+I enjoy turning complex problems into clean, maintainable code.
